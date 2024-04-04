@@ -51,6 +51,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ```
 Developed By: Aravind kumar SS
 Register No: 212223110004
+
 python
 import numpy as np
 L=[int(i) for i in input().split()]
